@@ -385,7 +385,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Carkee.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 21;
+				CURRENT_PROJECT_VERSION = 15;
 				DEVELOPMENT_TEAM = 93K7CUUG7Z;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -402,8 +402,8 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				MARKETING_VERSION = 1.0.48;
-				PRODUCT_BUNDLE_IDENTIFIER = sg.karkee.app;
+				MARKETING_VERSION = 1.0.42;
+				PRODUCT_BUNDLE_IDENTIFIER = sg.bccs.app;
 				PRODUCT_NAME = Carkee;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
@@ -529,7 +529,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/CarkeeDebug.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 21;
+				CURRENT_PROJECT_VERSION = 15;
 				DEVELOPMENT_TEAM = 93K7CUUG7Z;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -546,8 +546,8 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				MARKETING_VERSION = 1.0.48;
-				PRODUCT_BUNDLE_IDENTIFIER = sg.karkee.app;
+				MARKETING_VERSION = 1.0.42;
+				PRODUCT_BUNDLE_IDENTIFIER = sg.bccs.app;
 				PRODUCT_NAME = Carkee;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
@@ -567,7 +567,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/CarkeeRelease.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 21;
+				CURRENT_PROJECT_VERSION = 15;
 				DEVELOPMENT_TEAM = 93K7CUUG7Z;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -584,8 +584,8 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				MARKETING_VERSION = 1.0.48;
-				PRODUCT_BUNDLE_IDENTIFIER = sg.karkee.app;
+				MARKETING_VERSION = 1.0.42;
+				PRODUCT_BUNDLE_IDENTIFIER = sg.bccs.app;
 				PRODUCT_NAME = Carkee;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";

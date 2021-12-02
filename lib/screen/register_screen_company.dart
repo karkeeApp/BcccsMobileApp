@@ -352,7 +352,7 @@ class _RegisterScreenCompanyState extends State<RegisterScreenCompany> {
                                   text: TextSpan(
                                     children: [
                                       TextSpan(
-                                          text: "I have read and understood Karkee's ",
+                                          text: "I have read and understood BCCS's ",
                                           style: TextStyle(color: Colors.black)
                                       ),
                                       TextSpan(

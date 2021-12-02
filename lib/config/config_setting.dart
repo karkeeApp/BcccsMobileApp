@@ -20,12 +20,12 @@ class ConfigSetting {
   // static const env = Environment.dev;//for banner
   // static const env = Environment.production;
   static const appVersion = "1.0.12";
-  static const clubName = "carkee";//"karkee";
+  static const clubName = "bccs";//"karkee";
   // static const baseURLFirstload = "https://carkee.solveware.co/";//"https://api.karkee.sg/"; // "https://api.karkee.sg/";
   // static const baseURLFirstload = "https://carkeeapi.carkee.sg/";//"https://api.karkee.sg/"; // "https://api.karkee.sg/";
-  static const baseURLFirstload = "http://mapp.karkee.biz/";//"https://api.karkee.sg/"; // "https://api.karkee.sg/";
-  static const username = 'karkee';
-  static const password = 'karkee_server_pwd';
+  static const baseURLFirstload = "http://bccs.karkee.biz/";//"https://api.karkee.sg/"; // "https://api.karkee.sg/";
+  static const username = 'bccs';
+  static const password = 'bccs_server_pwd';
 
   //change set iconbottombar // clone must have icon app !
 

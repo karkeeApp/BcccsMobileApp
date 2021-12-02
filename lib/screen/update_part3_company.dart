@@ -112,7 +112,7 @@ class _UpdatePart3CompanyScreenState extends State<UpdatePart3CompanyScreen> {
               },
               title: "An app of your own",
               subTitle:
-              'Your club can have an app too, produced by Carkee.',
+              'Your club can have an app too, produced by Karkee.',
               totalStep: 4,
               currentStep: 3,
             ),

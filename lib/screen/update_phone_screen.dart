@@ -126,7 +126,7 @@ class _UpdatePhoneScreenState extends State<UpdatePhoneScreen> {
                   Padding(
                     padding: const EdgeInsets.symmetric(vertical: 30),
                     child: Text(
-                      'Secure your Karkee account by verifying your mobile phone number.',
+                      'Secure your BCSS account by verifying your mobile phone number.',
                       style: Styles.mclub_normalText,
                     ),
                   ),

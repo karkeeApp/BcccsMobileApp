@@ -1,49 +1,71 @@
 {
   "project_info": {
-    "project_number": "237197109442",
-    "project_id": "carkee-aad70",
-    "storage_bucket": "carkee-aad70.appspot.com"
+    "project_number": "646847861085",
+    "project_id": "agile-infinity-329404",
+    "storage_bucket": "agile-infinity-329404.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:237197109442:android:bf52451032ac7bc4c7b35b",
+        "mobilesdk_app_id": "1:646847861085:android:8a1557a50298e9fe15d8b4",
         "android_client_info": {
-          "package_name": "sg.karkee.app"
+          "package_name": "sg.bccs.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "237197109442-9pj8lp3pal5embjrkaggchqmaglfmlcv.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "sg.karkee.app",
-            "certificate_hash": "128fb00ba1759f4c2124b1b8ce7d039ee9e727a7"
-          }
-        },
-        {
-          "client_id": "237197109442-f22uo95hs3jsc1sjmi1uggtb65homhlc.apps.googleusercontent.com",
+          "client_id": "646847861085-dmev114oqbknsg6klh2fjjgg554gnk2s.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDNc0S6baWefwE6fWSwmZQrd2_yAvRMEdM"
+          "current_key": "AIzaSyBpehbUTcwx6AObIGhrPP7RX9DlwD7o1Io"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "237197109442-f22uo95hs3jsc1sjmi1uggtb65homhlc.apps.googleusercontent.com",
+              "client_id": "646847861085-dmev114oqbknsg6klh2fjjgg554gnk2s.apps.googleusercontent.com",
               "client_type": 3
-            },
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646847861085:android:b6d69a9bc17ded3215d8b4",
+        "android_client_info": {
+          "package_name": "sg.karkee.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646847861085-tnaueotmg20t94q8bdale23lh6v41s49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.karkee.app",
+            "certificate_hash": "81eae43b15869fd33194da706e9aff7930db4b8d"
+          }
+        },
+        {
+          "client_id": "646847861085-dmev114oqbknsg6klh2fjjgg554gnk2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpehbUTcwx6AObIGhrPP7RX9DlwD7o1Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
             {
-              "client_id": "237197109442-vq4mn3ltnqr6ipk0o5o5h4r0ksn3n973.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "sg.karkee.app"
-              }
+              "client_id": "646847861085-dmev114oqbknsg6klh2fjjgg554gnk2s.apps.googleusercontent.com",
+              "client_type": 3
             }
           ]
         }

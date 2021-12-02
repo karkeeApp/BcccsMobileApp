@@ -1,4 +1,4 @@
-package sg.karkee.app
+package sg.bccs.app
 //
 //import io.flutter.embedding.android.FlutterActivity
 //

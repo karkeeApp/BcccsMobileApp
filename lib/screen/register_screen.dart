@@ -333,7 +333,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                           text: TextSpan(
                             children: [
                               TextSpan(
-                                  text: "I have read and understood Karkee's ",
+                                  text: "I have read and understood BCCS's ",
                                   style: TextStyle(color: Colors.black)),
                               TextSpan(
                                 text: 'Data Protection Terms',

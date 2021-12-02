@@ -26,7 +26,7 @@ class AlertPopupOneButton extends StatelessWidget {
                 "A new release has been published, Please download the new version")) {
               print("go store");
               StoreRedirect.redirect(
-                  androidAppId: "sg.carkee.mclub", iOSAppId: "1525180667");
+                  androidAppId: "sg.bccs.app", iOSAppId: "1525180667");
             } else {
               Get.back();
               if (callbackAfterPressOK != null) {
